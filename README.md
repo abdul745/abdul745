@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @abdul745
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on Blockchain
-- 📫 How to reach me on email: abdul.ch71745@gmail.com
-
-<!---
-abdul745/abdul745 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hey there! Here's a snapshot:
+- 💼 CTO & Blockchain Architect at Tycoonz Solutions.
+- 🚀 Passionate about crafting innovative solutions at the tech-business nexus.
+- ⛓️ Constantly exploring the latest in blockchain and decentralized systems.
+- 🌟 Let's connect and build the future together! #TechEnthusiast #Blockchain #CTO
