@@ -28,7 +28,11 @@ In backend development, I utilize **Node.js** to build scalable server-side appl
 
 ### Connect with Me:
 📫 Email: [abdul.ch71745@gmail.com](mailto:abdul.ch71745@gmail.com)  
+
 🐦 Twitter: [abdul_eth_](https://x.com/abdul_eth_) 
+
 🌐 GitHub: [abdul745](https://github.com/abdul745/)
+
 💬 Discord: [abdul.eth#2583](https://discord.com/users/abdul.eth%232583)  
+
 🔗 Ethereum Stack Exchange: [Abdullah Hanif Chaudhary](https://ethereum.stackexchange.com/users/76856/abdullah-hanif-chaudhary)
