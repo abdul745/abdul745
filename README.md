@@ -4,10 +4,10 @@
 #### Blockchain Engineer | Web3 | JavaScript Developer | React | Node | Next.js | TypeScript
 
 ### 💡 Frontend Skills:
-Proficient in **[ReactJS](https://reactjs.org/)**, **[Next.js](https://nextjs.org/)**, and **[TypeScript](https://www.typescriptlang.org/)**, I specialize in creating dynamic and responsive user interfaces. Leveraging Next.js for enhanced performance, I ensure seamless web applications. Adept with **Redux** for state management and proficient in **GraphQL** for efficient API design.
+Proficient in **[ReactJS]**, **[Next.js]**, and **[TypeScript]**, I specialize in creating dynamic and responsive user interfaces. Leveraging Next.js for enhanced performance, I ensure seamless web applications. Adept with **Redux** for state management and proficient in **GraphQL** for efficient API design.
 
 ### 💡 Backend Skills:
-In backend development, I utilize **[Node.js](https://nodejs.org/)** to build scalable server-side applications. Experienced with **MongoDB** and **SQL** databases, I ensure flexible data storage and maintain relational databases for data integrity. Using **[Nest.js](https://nestjs.com/)**, I develop high-quality applications with efficient architecture and fast API routing.
+In backend development, I utilize **[Node.js]** to build scalable server-side applications. Experienced with **MongoDB** and **SQL** databases, I ensure flexible data storage and maintain relational databases for data integrity. Using **[Nest.js]**, I develop high-quality applications with efficient architecture and fast API routing.
 
 ### Development Stack:
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=A6A9AA)
@@ -28,8 +28,7 @@ In backend development, I utilize **[Node.js](https://nodejs.org/)** to build sc
 
 ### Connect with Me:
 📫 Email: [abdul.ch71745@gmail.com](mailto:abdul.ch71745@gmail.com)  
-🐦 Twitter: [SalmanNaqvi#1845](https://x.com/abdul_eth_)  
+🐦 Twitter: [abdul_eth_](https://x.com/abdul_eth_) 
 🌐 GitHub: [abdul745](https://github.com/abdul745/)
-🌐 Ethereum Stack Exchange: [abdullah-hanif-chaudhary](https://ethereum.stackexchange.com/users/76856/abdullah-hanif-chaudhary)
-
----
+💬 Discord: [abdul.eth#2583](https://discord.com/users/abdul.eth%232583)  
+🔗 Ethereum Stack Exchange: [Abdullah Hanif Chaudhary](https://ethereum.stackexchange.com/users/76856/abdullah-hanif-chaudhary)
