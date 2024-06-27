@@ -1,6 +1,6 @@
 👋 Hey there! Here's a snapshot:
 
-### Full Stack Software Engineer with 8+ Years of Experience
+### Full Stack Software Engineer with 4+ Years of Experience
 #### Blockchain Engineer | Web3 | JavaScript Developer | React | Node | Next.js | TypeScript
 
 ### 💡 Frontend Skills:
