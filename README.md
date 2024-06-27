@@ -4,10 +4,10 @@
 #### Blockchain Engineer | Web3 | JavaScript Developer | React | Node | Next.js | TypeScript
 
 ### 💡 Frontend Skills:
-Proficient in **[ReactJS]**, **[Next.js]**, and **[TypeScript]**, I specialize in creating dynamic and responsive user interfaces. Leveraging Next.js for enhanced performance, I ensure seamless web applications. Adept with **Redux** for state management and proficient in **GraphQL** for efficient API design.
+Proficient in **[ReactJS]**, **Next.js**, and **TypeScript**, I specialize in creating dynamic and responsive user interfaces. Leveraging Next.js for enhanced performance, I ensure seamless web applications. Adept with **Redux** for state management and proficient in **GraphQL** for efficient API design.
 
 ### 💡 Backend Skills:
-In backend development, I utilize **[Node.js]** to build scalable server-side applications. Experienced with **MongoDB** and **SQL** databases, I ensure flexible data storage and maintain relational databases for data integrity. Using **[Nest.js]**, I develop high-quality applications with efficient architecture and fast API routing.
+In backend development, I utilize **Node.js** to build scalable server-side applications. Experienced with **MongoDB** and **SQL** databases, I ensure flexible data storage and maintain relational databases for data integrity. Using **Nest.js**, I develop high-quality applications with efficient architecture and fast API routing.
 
 ### Development Stack:
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=A6A9AA)
